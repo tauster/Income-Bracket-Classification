@@ -8,3 +8,5 @@ Dataset Description:
   * Includes the training census data
 * `income-testing.csv`
   * Includes the testing census data
+
+Tausif S., 2017
